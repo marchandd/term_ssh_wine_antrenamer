@@ -1,1 +1,1 @@
-http://sourceforge.net/projects/portableapps/files/Ant%20Renamer%20Portable/AntRenamerPortable_2.10.0.paf.exe
+http://sourceforge.net/projects/portableapps/files/Ant%20Renamer%20Portable/AntRenamerPortable_2.12.0.paf.exe

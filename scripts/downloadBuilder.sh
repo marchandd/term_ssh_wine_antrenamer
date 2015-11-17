@@ -1,5 +1,6 @@
 #!/bin/bash
 #Common for all Windows PortableApps registry
+#DM*20151117 New version
 targetDirectory='/root/Downloads'
 downloadTargetFilePath=$targetDirectory'/index.html'
 downloadTargetLog=$targetDirectory'/downloads.log'
@@ -13,7 +14,7 @@ downloadEndPattern='.paf.exe'
 downloadSubstituteModel='s/\/download//'
 function defaultValue()
 {
-  echo $downloadUrl'AntRenamerPortable_2.10.0.paf.exe' > $targetFilePath
+  echo $downloadUrl'AntRenamerPortable_2.12.0.paf.exe' > $targetFilePath
 }
 # Download process
 rm /root/Downloads/ind* > /dev/null 2>&1
